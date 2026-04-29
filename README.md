@@ -1,4 +1,4 @@
-# Olá, eu sou Raphael 👋
+# Olá, eu sou Raphael
 
 Estudante de Engenharia de Software focado em desenvolvimento web e sistemas corporativos.
 
