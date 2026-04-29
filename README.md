@@ -11,7 +11,6 @@ Estudante de Engenharia de Software focado em desenvolvimento web e sistemas cor
 
 ## Projetos
 🔹 Simulação Front-End para empresa de Wi-Fi  
-🔹 Simulador de fluxo de pedidos  
 🔹 Estudos de C# (em andamento)
 <!--
 **raphaelferreiralldev/raphaelferreiralldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
