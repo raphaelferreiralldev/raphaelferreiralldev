@@ -1,5 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Raphael 👋
 
+Estudante de Engenharia de Software focado em desenvolvimento web e sistemas corporativos.
+
+## Stack
+- JavaScript
+- React
+- HTML/CSS
+- Git/GitHub
+- Estudando C# e .NET
+
+## Projetos
+🔹 Simulação Front-End para empresa de Wi-Fi  
+🔹 Simulador de fluxo de pedidos  
+🔹 Estudos de C# (em andamento)
 <!--
 **raphaelferreiralldev/raphaelferreiralldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
